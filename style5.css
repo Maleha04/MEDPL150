@@ -1,5 +1,4 @@
-
-  .container {
+ .container {
             position: relative;
             width: 1200px;
             height: 900px;
@@ -20,10 +19,6 @@
             top: 8px;
             left: 16px;
             color: white;
-            font-size: 30px;
+            font-size: 40px;
             font-weight: bold;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-
-
-    
-        }
